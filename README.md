@@ -23,6 +23,10 @@
 <a href = "thalesbaldino53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-  ![Snake animation](https://github.com/Thales-henri/thales-henri/blob/output/github-contribution-grid-snake.svg)
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thales-henri/thales-henri/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thales-henri/thales-henri/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
