@@ -5,7 +5,7 @@
 - 🔭 Hoje estou a procura de trabalho
 - 🌱 Estudando Beck-end
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thales-henrii&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thales-henri&show_icons=true&theme=dracula)
  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-henri&layout=compact&langs_count=16&theme=dracula"/>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
